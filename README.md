@@ -61,7 +61,7 @@ sudo apt -y install nodejs
 ```
 
 ```barsh
-nodejs -v
+node --version
 ```
 
 - Clonar do GIT
